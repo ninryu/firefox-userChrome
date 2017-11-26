@@ -1,5 +1,3 @@
-Based on https://userstyles.org/styles/130831/ecnmy-firefox-theme
-
 @namespace url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
 
 /* custom colors / /var(--tab-bg)/ :root { --tab-bg: #dcddcf !important; / tab bg / --url-bg: #F0F0F0 !important; / nav bar and selected tab / --browser-bg: #dcddcf !important; / url bg & hover bg /
